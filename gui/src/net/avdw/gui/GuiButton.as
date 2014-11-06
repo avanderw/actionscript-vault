@@ -17,8 +17,8 @@ package net.avdw.gui
 	import flash.text.TextFormat;
 	
 	/**
-	 * ...
-	 * @author Andrew van der Westhuizen
+	 * 				┌∩┐'(◣_◢)'┌∩┐
+	 * @author Andrew van der Westhuizen 
 	 */
 	public class GuiButton extends AGuiComponent
 	{

@@ -2,8 +2,11 @@ package net.avdw.transition
 {
 	import flash.display.DisplayObject;
 	/**
-	 * ...
-	 * @author Andrew van der Westhuizen
+	 * Inspiration:
+	 * http://www.joelambert.co.uk/flux/
+	 * 
+	 * 				┌∩┐'(◣_◢)'┌∩┐
+	 * @author Andrew van der Westhuizen 
 	 */
 	public class TransitionVerticalBars  implements ITransition
 	{

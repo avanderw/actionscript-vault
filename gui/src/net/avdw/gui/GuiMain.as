@@ -4,8 +4,8 @@ package net.avdw.gui
 	import flash.events.Event;
 	
 	/**
-	 * ...
-	 * @author Andrew van der Westhuizen
+	 * 				┌∩┐'(◣_◢)'┌∩┐
+	 * @author Andrew van der Westhuizen 
 	 */
 	public class GuiMain extends Sprite 
 	{

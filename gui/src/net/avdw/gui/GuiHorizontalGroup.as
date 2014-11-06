@@ -4,8 +4,8 @@ package net.avdw.gui
 	import flash.display.Sprite;
 	
 	/**
-	 * ...
-	 * @author Andrew van der Westhuizen
+	 * 				┌∩┐'(◣_◢)'┌∩┐
+	 * @author Andrew van der Westhuizen 
 	 */
 	public class GuiHorizontalGroup extends AGuiComponent
 	{
