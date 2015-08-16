@@ -1,0 +1,1 @@
+java -jar WallpaperAS3ClassCreator.jar

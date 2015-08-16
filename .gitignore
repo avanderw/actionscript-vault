@@ -12,3 +12,5 @@ bin-release/
 demo-suite/obj/
 gui/obj/
 transitions/obj/
+lib/
+assets/

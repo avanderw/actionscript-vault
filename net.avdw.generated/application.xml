@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/15.0">
+	
+	<id>net.avdw.generated</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>net.avdw.generated</filename> 
+	
+	<name>net.avdw.generated</name> 
+	<description></description> 
+	<copyright></copyright> 
+	
+	<initialWindow> 
+		<title>net.avdw.generated</title> 
+		<content>net.avdw.generated.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>true</visible> 
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable>true</resizable> 
+	</initialWindow> 
+	
+	<!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>
